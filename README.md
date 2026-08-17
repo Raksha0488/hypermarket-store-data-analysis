@@ -1,4 +1,4 @@
-# Hypermarket Store Data Analysis 🛍️📊
+# Hypermarket Store Data Analysis
 
 Excel-based data analytics project done as part of my self-learning / portfolio building during
 M.Tech (2nd year). The project takes raw retail sales data from a fashion/apparel store, cleans
@@ -12,7 +12,7 @@ sells the most*, *which state generates the most revenue*, *who spends more — 
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To practice the complete data analysis workflow on a real-world-style retail dataset:
 
@@ -26,7 +26,7 @@ PivotCharts, slicers, dashboard design) before moving to tools like Power BI / T
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 Hypermarket-Store-Data-Analysis/
@@ -47,7 +47,7 @@ Hypermarket-Store-Data-Analysis/
 
 ---
 
-## 🧾 About the Dataset
+## About the Dataset
 
 - ~31,000 order-level records of a fashion/apparel store for the year 2022
 - Each row = one order line item (product ordered, quantity, amount, customer & shipping info)
@@ -57,7 +57,7 @@ Hypermarket-Store-Data-Analysis/
 
 ---
 
-## 🧹 What I Did (Workflow)
+## What I Did (Workflow)
 
 1. **Raw Data Sheet** – Imported the original data as-is (`Vrinda Store Raw Data` sheet).
 2. **Data Cleaning Sheet**
@@ -80,7 +80,7 @@ Hypermarket-Store-Data-Analysis/
 
 ---
 
-## 📌 Key Insights (from the dashboard)
+## Key Insights (from the dashboard)
 
 - Women customers contribute a significantly higher share of total revenue than men
   (~64% vs ~36%).
@@ -97,14 +97,14 @@ sheet for the full visual version.)*
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel (PivotTables, PivotCharts, Slicers, conditional formatting, dashboard design)
 - Basic data cleaning techniques (no external tool/script used — everything is native Excel)
 
 ---
 
-## ▶️ How to View
+## How to View
 
 1. Download `dashboard/Hypermarket_Store_Data_Analysis.xlsx`
 2. Open it in Excel (Excel 2016 or later recommended for full PivotChart/slicer support)
@@ -116,7 +116,7 @@ A short video walkthrough of the project is also linked inside the workbook
 
 ---
 
-## 🚧 Future Scope
+## Future Scope
 
 - [ ] Recreate the same dashboard in Power BI for more advanced interactivity (DAX measures)
 - [ ] Automate the cleaning steps using Python (pandas) instead of manual Excel cleaning
@@ -125,7 +125,7 @@ A short video walkthrough of the project is also linked inside the workbook
 
 ---
 
-## 🙋 About Me
+
 
 M.Tech (2nd Year) student, learning data analytics alongside my coursework. This is one of my
 early hands-on projects to understand how raw business data is turned into insights that
